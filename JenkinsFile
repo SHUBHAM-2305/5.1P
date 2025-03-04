@@ -2,7 +2,7 @@ pipeline {
     agent any
     
     environment {
-        DIRECTORY_PATH = ''
+        DIRECTORY_PATH = 'https://github.com/SHUBHAM-2305/5.1P'
         TESTING_ENVIRONMENT = 'TestingEnv'
         PRODUCTION_ENVIRONMENT = 'ShubhamRana'
     }
